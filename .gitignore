@@ -1,0 +1,78 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS Express
+/.vs/
+/wwwroot/lib/
+
+# Publish output
+publish/
+app.publish/
+
+# Entity Framework
+*.mdf
+*.ldf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+appsettings.Development.json
+appsettings.Local.json
+
+# Secrets
+secrets.json
+
+# Test Results
+TestResults/
+*.trx
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Azure
+*.azurePubxml
+
+# Node modules (if frontend exists)
+node_modules/
+
+# npm/yarn logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
