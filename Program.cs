@@ -19,17 +19,27 @@ class Test
         string --> "hello world"
         */
 
-        string name = "John";
-        int age = 20;
-        bool isMale = true;
-        Console.WriteLine(name);
-        Console.WriteLine(age);
-        Console.WriteLine(isMale);
+        // string name = "John";
+        // int age = 20;
+        // bool isMale = true;
+        // Console.WriteLine(name);
+        // Console.WriteLine(age);
+        // Console.WriteLine(isMale);
 
         /*
         output --> John, 20, True
         */
 
+        // const variable
+        // const string name = "Cannot change";
+        // Console.WriteLine(name);
+
+        // multiple variables
+        // int number1;
+        // int number2;
+        // int number3;
+        // number1 = number2 = number3 = 1;
+        // Console.WriteLine(number1 + number2 + number3);
 
     }
 }
